@@ -1,5 +1,5 @@
 require_relative '../lib/position_taken.rb'
-require_relative '../lib/spec_helper.rb'
+
 
 
 
